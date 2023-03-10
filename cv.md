@@ -1,16 +1,16 @@
-#Karalina Shunevich
+# Karalina Shunevich
 
 ![Hello, it's me](/rsschool-cv/images/KaralinaShunevich.png)
 
-##Contacts
+## Contacts
 * Phone: +420778568527
 * E-mail: shunevichkonst@gmail.com
 * [Link to LinkedIn](https://www.linkedin.com/in/karalinashunevich/ )
 
-##About me
+## About me
 > As a hardworking student learning frontend development, I have expertise in HTML5/CSS3, Javascript, Figma, Responsive Design and Interactive Design. I am excited about collaborating with a team of experienced professionals and learning from their expertise. Pursuing a career in frontend development has always been my dream, and I am prepared to put in the effort required to gain valuable experience and grow my skills. I am committed to continuous improvement and embracing new challenges, and I am confident that I can make a valuable contribution to any team.
 
-##Skills
+## Skills
 * HTML / CSS
 * JavaScript
 * Adobe Illustrator
@@ -22,7 +22,7 @@
 * Web Design & Web Development
 * Graphic design
 
-##Code
+## Code
 ```
 const canvas = document.createElement('canvas');
 canvas.width = 100;
@@ -37,7 +37,7 @@ ctx.fillStyle = "#FF69B4";
 ctx.fill();
 ```
 
-##Work History
+## Work History
 **Shop Sales Assistants**
 Inditex
 *2021-07 - 2022-08*
@@ -52,7 +52,7 @@ Remote trading
 * Reviewed, edited and applied style rules to design, complying with company guidelines.
 * Created clear icons, messaging, buttons and other UI elements for websites.
 
-##Education
+## Education
 **Informatics, Bachelor**
 Czech University of Life Sciences
 *2020-10 - Current*
@@ -63,7 +63,7 @@ Czech University of Life Sciences
 Minsk Radioengineering College
 *2014-09 - 2018-05*
 
-##Languages
+## Languages
 
 Languages    | Level 
 -----------|:-------: 
@@ -73,7 +73,7 @@ German      |   Elementary
 Belarusian      |   Native
 Belarusian      |   Native
 
-##Interests
+## Interests
 * Logic and strategy board games
 * Playing the flute
 * Video games
