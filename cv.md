@@ -38,14 +38,16 @@ ctx.fill();
 
 ## Work History
 
-**Shop Sales Assistants**  
+**Shop Sales Assistants**
+
 Inditex  
 *2021-07 - 2022-08*  
 >* Assisted customers with prompt and polite support in-person and via telephone.
 * Remained calm and poised in high-stress, environment to promote service to customers and staff.
 * Established rapport with customers using active listening
 
-**Operator PC**  
+**Operator PC**
+
 Remote trading  
 *2018-09 - 2019-05*  
 > * Used proven methods to craft and test design solutions that addressed real customer challenges.
